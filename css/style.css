@@ -9,7 +9,7 @@
   }
 h3{
 	text-align: center;
-	font-size: 1.6em;
+	font-size: 1.5em;
 	line-height: .3em;
 }
 .col-sm-3{
@@ -25,9 +25,15 @@ h3{
 	width: 50%;
 }
 .left-rail{
-	padding-left: 5em;
+	padding-left: 2em;
 	color: #980000;
 }
+/*@media screen and (max-width: 768px) {
+	.left-rail{
+		padding-left: 2em;
+	}
+}*/
+
 .form-input{
 	width: 100%;
 }
@@ -35,7 +41,7 @@ h3{
 	width: 49%;
 }
 .form-layout{
-	margin-left: 3em;
+	margin-left: 2em;
 }
 input, select{
 	height: 3em;
@@ -50,7 +56,7 @@ form{
 	background-color: #0097A7;
 
 }
-button{
+#form-button{
 	width: 50%;
 	height: 3em;
 	margin-top: 2em;
