@@ -11,10 +11,10 @@
 		<link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
 	</head>
 	<body>
+	<div id="wrapper">
 	<?php 
 		include 'header.php';
 	?>
-	<div id="wrapper">
 		<div class="row">
 			<div class="col-sm-8 left-rail">
 				<div class="row">
