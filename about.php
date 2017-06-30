@@ -14,6 +14,10 @@
 	<?php 
 		include 'header.php';
 	?>
-	<h1>About Us</h1>
+	<img src="about.jpg" alt="About">
 
 	</body>
+	<?php 
+		include 'footer.php';
+	?>
+</html>

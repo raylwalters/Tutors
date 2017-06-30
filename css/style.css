@@ -17,6 +17,9 @@ h3{
 	font-size: 1.5em;
 	line-height: .3em;
 }
+h1{
+	text-align: center;
+}
 .col-sm-3{
 	background-color: #6EC44C;
 	border: 1px solid black;
@@ -29,7 +32,7 @@ h3{
 .center-block{
 	width: 50%;
 }
-.left-rail{
+.left-rail, .right-rail{
 	padding-left: 2em;
 	color: #980000;
 }

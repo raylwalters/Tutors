@@ -13,7 +13,7 @@
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="index.php">Home</a></li>
 						<li><a href="about.php">About Us</a></li>
-						<li><a href="#">Courses</a></li>
+						<li><a href="courses.php">Courses</a></li>
 						<li><a href="#">Scheduling</a></li>
 						<li><a href="#">Rates</a></li>
 						<li><a href="#">Reviews</a></li>
