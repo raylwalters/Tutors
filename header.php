@@ -7,14 +7,14 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="index.html">2smart2tors <span class="glyphicon glyphicon-home" aria-hidden="true"></span></a>
+					<a class="navbar-brand" href="index.php">2smart2tors <span class="glyphicon glyphicon-home" aria-hidden="true"></span></a>
 				</div>
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
 						<li><a href="index.php">Home</a></li>
 						<li><a href="about.php">About Us</a></li>
 						<li><a href="courses.php">Courses</a></li>
-						<li><a href="#">Scheduling</a></li>
+						<li><a href="schedule.php">Scheduling</a></li>
 						<li><a href="#">Rates</a></li>
 						<li><a href="#">Reviews</a></li>
 						<li><a href="#">Contact Us</a></li>

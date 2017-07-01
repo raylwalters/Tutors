@@ -122,6 +122,117 @@
 				</div>
 			</div>
 		</div>
+
+		<div class="row">
+			<div class="col-sm-6 left-rail">
+				<div class="col-sm-12">
+					<h1>Awesome Algebra</h1>
+				</div>
+				<div class="row">
+					<div class="col-sm-6">
+						<img src="" alt="image">
+					</div>
+					<div class="col-sm-6">
+						<p>Essentially the only aspect that separates humans from monkeys is the ability to understand abstract concepts, such as variables, the heart of algebra.  During this class, students will master the concepts of:</p>
+						<ul>
+							<li>Inverse Operations</li> 
+							<li>One-step equations</li>
+							<li>Two-step equations</li>
+							<li>Multi-step equations</li>
+						</ul>
+						<p><b>Starter pack:</b> notebook, 3 ring binder, 2 pencils, 1 blue pen, 100 flash cards, multiplication flash cards, division flash cards, Math Expansion Addition Level 2, Math Expansion Subtraction Level 2</p>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 right-rail">
+				<div class="col-sm-12">
+					<h1>Logical Linear Equations</h1>
+				</div>
+				<div class="row">
+					<div class="col-sm-12">
+						<img src="" alt='pic'>
+					</div>
+					<div class="col-sm-12">
+						<p>The City of Detroit is on the rise!  There are opportunities galore for entrepreneurs to get a piece of the action.  As a developer, you are responsible for a budget of $30 million to create housing, entertainment, and businesses that will attract more residents during the resurgence in the City of Detroit.  During this class, scholars will master the concepts of:</p>
+						<div class="row">
+							<ul>
+								<li>The Cartesian coordinate plane</li>
+								<li>Linear Equations</li>
+								<li>Tables</li>
+								<li>Microsoft Excel ® functions</li>
+							</ul>
+						</div>
+						<div class="col-sm-12">
+							<p><b>Starter pack:</b> notebook, 3 ring binder, 2 pencils, 1 blue pen, 100 flash cards, multiplication flash cards, division flash cards, graphing paper</p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-6 left-rail">
+				<div class="col-sm-12">
+					<h1>Gung-Ho for Geometry! </h1>
+				</div>
+				<div class="row">
+					<div class="col-sm-12">
+						<p>Have you ever studied the amazing architectural structures around us every day?  The building blocks of these architectural designs are based in geometry.  Through the lens of architectural design, students will master the concepts of:</p>
+						<div class="row">
+							<ul>
+								<li>2D Polygons</li>
+								<li>Circles</li>
+								<li>Perimeter</li>
+								<li>Area</li>
+								<li>Formulas</li>
+							</ul>
+						</div>
+						<div class="col-sm-12">
+							<p><b>Starter pack:</b> notebook, 3 ring binder, 2 pencils, 1 blue pen, 100 flash cards, multiplication flash cards, division flash cards, 2D geometry shapes, 3D geometry shapes </p>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-sm-6 right-rail">
+				<div class="col-sm-12">
+					<h1>Gung-Ho Again for Geometry! </h1>
+				</div>
+				<div class="row">
+					<div class="col-sm-12">
+						<p>Have you ever studied the amazing architectural structures around us every day?  The building blocks of these architectural designs are based in geometry.  Through the lens of architectural design, students will master the concepts of:</p>
+						<div class="row">
+							<ul>
+								<li>3D Polygons</li>
+								<li>Surface area</li>
+								<li>Volume</li>
+							</ul>
+						</div>
+						<div class="col-sm-12">
+							<p><b>Starter pack:</b> notebook, 3 ring binder, 2 pencils, 1 blue pen, 100 flash cards, multiplication flash cards, division flash cards, 2D geometry shapes, 3D geometry shapes </p>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="row">
+			<div class="col-sm-12 left-rail">
+				<div class="col-sm-6">
+					<h1>Oh for the love of literature!</h1>
+				</div>
+				<div class="col-sm-12">
+				<p>The ability to decipher symbols on paper (also known as reading) and convey thoughts and opinions on paper (better known as writing) are some of the most essential and liberating skills a scholar could possess.  If you know how to read, you can do anything!  And if you love to read, you will do everything your heart desires! In each class, scholars choose an interesting book that is a stretch goal - one that is slightly above their current reading level.  2tors will prepare reading guides, vocabulary word lists, and critical reading activities to enhance scholars’ skills within the context of their chosen book. Scholars will engage in a round table, book club format with an emphasis on:</p>
+				<ul>
+					<li>Reading fluency</li>
+					<li>Vocabulary enhancement</li>
+					<li>Active comprehension strategies</li>
+					<li>Literary analysis</li>
+					<li>Writing workshop: content, organization, style, and mechanics</li>
+				</ul>
+				<p><b>Starter pack:</b> notebook, 3 ring binder, 2 pencils, 1 blue pen, choice of book, accompanying literature packet </p>
+				</div>
+			</div>
+		</div>
 	</div>
 	</div>
 	</body>
