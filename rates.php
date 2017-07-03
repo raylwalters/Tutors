@@ -17,72 +17,83 @@
 	?>
 	<div class="content">
 	<div class="col-xs-12" id="top-logo">
-		<img src="schedule.jpg" alt='schedule'>
+		<img src="rates.jpg" alt='rates'>
 	</div>
 	<div class="row">
-		<div class="col-xs-4 schedule heading">
-			<h3>Day</h3>
+		<div class="col-xs-4 schedule rate-heading">
+			<h3>Number of Students</h3>
 		</div>
-		<div class="col-xs-4 schedule heading location">
-			<h3>Location</h3>
+		<div class="col-xs-4 schedule rate-heading">
+			<h3>Session Rate per Student</h3>
 		</div>
-		<div class="col-xs-4 schedule heading">
-			<h3>Time</h3>
-		</div>
-	</div>
-	<div class="row">
-		<div class="col-xs-4 schedule">
-			<p class='day'>Monday</p>
-		</div>
-		<div class="col-xs-4 schedule location">
-			<p>Southfield Public Library</p>
-		</div>
-		<div class="col-xs-4 schedule">
-			<p class='time'>3:30 pm - 8:30 pm</p>
+		<div class="col-xs-4 schedule rate-heading">
+			<h3>Total Monthly Session Rate</h3>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-xs-4 schedule">
-			<p class='day'>Tuesday</p>
-		</div>
-		<div class="col-xs-4 schedule location">
-			<p>Baldwin Public Library, Birmingham</p>
+			<p class='rates'>1</p>
 		</div>
 		<div class="col-xs-4 schedule">
-			<p class='time'>3:30 pm - 8:30 pm</p>
+			<p class='rates'>$25</p>
+		</div>
+		<div class="col-xs-4 schedule">
+			<p class='rates'>$100</p>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-xs-4 schedule">
-			<p class='day'>Wednesday</p>
-		</div>
-		<div class="col-xs-4 schedule location">
-			<p>Baldwin Public Library, Birmingham</p>
+			<p class='rates'>2</p>
 		</div>
 		<div class="col-xs-4 schedule">
-			<p class='time'>3:30 pm - 8:30 pm</p>
+			<p class='rates'>$20</p>
+		</div>
+		<div class="col-xs-4 schedule">
+			<p class='rates'>$80</p>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-xs-4 schedule">
-			<p class='day'>Thursday</p>
-		</div>
-		<div class="col-xs-4 schedule location">
-			<p>Bloomfield Township Public Library</p>
+			<p class='rates'>3</p>
 		</div>
 		<div class="col-xs-4 schedule">
-			<p class='time'>3:30 pm - 8:30 pm</p>
+			<p class='rates'>$18</p>
+		</div>
+		<div class="col-xs-4 schedule">
+			<p class='rates'>$72</p>
 		</div>
 	</div>
 	<div class="row">
 		<div class="col-xs-4 schedule">
-			<p class='day'>Friday</p>
-		</div>
-		<div class="col-xs-4 schedule location">
-			<p>Bloomfield Township Public Library</p>
+			<p class='rates'>4</p>
 		</div>
 		<div class="col-xs-4 schedule">
-			<p class='time'>3:00 pm - 6:00 pm</p>
+			<p class='rates'>$15</p>
+		</div>
+		<div class="col-xs-4 schedule">
+			<p class='rates'>$60</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-xs-4 schedule">
+			<p class='rates'>5</p>
+		</div>
+		<div class="col-xs-4 schedule">
+			<p class='rates'>$12</p>
+		</div>
+		<div class="col-xs-4 schedule">
+			<p class='rates'>$48</p>
+		</div>
+	</div>
+	<div class="row">
+		<div class="col-xs-4 schedule">
+			<p class='rates'>6</p>
+		</div>
+		<div class="col-xs-4 schedule">
+			<p class='rates'>$10</p>
+		</div>
+		<div class="col-xs-4 schedule">
+			<p class='rates'>$40</p>
 		</div>
 	</div>
 	</div>

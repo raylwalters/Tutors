@@ -16,7 +16,7 @@
 h3{
 	text-align: center;
 	font-size: 1.5em;
-	line-height: .3em;
+	line-height: 1.2em;
 }
 h1{
 	text-align: center;
@@ -71,15 +71,19 @@ legend{
 	color: white;
 }
 .schedule{
-	border: 1px solid #980000;
+	border: 2px solid #980000;
 	text-align: center;
-	height: 6em;
+	height: 8em;
 	padding-top: 2em;
 }
 .heading{
 	background-color: #0097A7;
 	color: white;
 	padding-top: 1.5em;
+}
+.rate-heading{
+	background-color: #0097A7;
+	color: white;
 }
 .content{
 	margin-left: 3em;
@@ -89,12 +93,24 @@ legend{
 	text-align: center;
 	margin-bottom: 2em;
 }
+.heading:nth-child(1), .rate-heading:nth-child(1){
+	border-right: none;
+}
+.heading:nth-child(2), .rate-heading:nth-child(2){
+	border-right: none;
+}
+.heading:nth-child(2), .rate-heading:nth-child(2){
+	border-left: none;
+}
+.heading:nth-child(3), .rate-heading:nth-child(3){
+	border-left: none;
+}
 @media (max-width: 769px){
 	.day{
-		padding-top: 2em;
+		padding-top: 1.5em;
 	}
 	.time{
-		padding-top: 1em;
+		padding-top: 1.5em;
 	}
 	.schedule{
 		padding-top: 0;
@@ -105,5 +121,15 @@ legend{
 	#top-logo img{
 		width: 100%;
 	}
-
+	.rate-heading{
+		height: 11em;
+	}
+	.rates{
+		padding-top: 2em;
+	}
+}
+@media (min-width: 768px) and (max-width: 1023px){
+	.location{
+		padding-top: 1.5em;
+	}
 }
