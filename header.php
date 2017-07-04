@@ -14,10 +14,9 @@
 						<li><a href="index.php">Home</a></li>
 						<li><a href="about.php">About Us</a></li>
 						<li><a href="courses.php">Courses</a></li>
-						<li><a href="schedule.php">Scheduling</a></li>
+						<li><a href="schedule.php">Schedule</a></li>
 						<li><a href="rates.php">Rates</a></li>
 						<li><a href="#">Reviews</a></li>
-						<li><a href="#">Contact Us</a></li>
 					</ul>
 				</div>
 			</div>

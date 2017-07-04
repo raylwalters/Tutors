@@ -105,7 +105,7 @@
 				</div>
 				<div class="row">
 					<div class="col-sm-9">
-						<p>“Game! Set! Match!  With a winning rate of 79%, Serena Williams wins her 23rd Grand Slam!” Statistics is the mathematical study of gathering data to make decisions and record events.  In the context of sports, scholars will master the concepts of:</p>
+						<p>“With 731 receptions, a total of 11,619 yards, an average of 15.9 yards per reception, and 83 touchdowns, Calvin "Megatron" Johnson is one of the most memorable wide receivers in Lions history!” Statistics is the mathematical study of gathering data to make decisions and record events. In the context of sports, scholars will master the concepts of:</p>
 						<ul>
 							<li>Mean, median, and mode</li>
 							<li>Bar Graphs</li>
@@ -126,14 +126,15 @@
 		<div class="row">
 			<div class="col-sm-6 left-rail">
 				<div class="col-sm-12">
-					<h1>Awesome Algebra</h1>
+					<h1>Algebra for Athletes</h1>
 				</div>
 				<div class="row">
 					<div class="col-sm-6">
 						<img src="" alt="image">
 					</div>
 					<div class="col-sm-6">
-						<p>Essentially the only aspect that separates humans from monkeys is the ability to understand abstract concepts, such as variables, the heart of algebra.  During this class, students will master the concepts of:</p>
+						<p>In order to be at the peak of fitness, an athlete must maintain a balance of exercise and caloric intake.  How does an athlete make these decisions?  Algebra, that's how.</p>
+						<p>During this course, student athletes will make decisions to improve their health by learning abstract concepts, such as variables, the heart of algebra. During this class, students will master the concepts of:</p>
 						<ul>
 							<li>Inverse Operations</li> 
 							<li>One-step equations</li>

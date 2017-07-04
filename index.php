@@ -19,9 +19,8 @@
 			<div class="col-sm-8 left-rail">
 				<div class="row">
 					<div class="col-sm-12">
-						<img src="tutors.jpg" class="center-block img-responsive" alt="Tutors">
-						<h3>2smart2tors working 2gether</h3>
-						<h3>because 2 heads are better than 1!</h3>
+						<img src="images/tutors.jpg" class="center-block img-responsive" alt="Tutors">
+						<h3>Hands-on & Minds-on Tutoring</h3>
 					</div>
 				</div>
 
@@ -61,11 +60,14 @@
 								</p>
 								<select class="form-input" name="desired_course">
 									<option value="default">Pick a course</option>
-									<option value="Math">Math</option>
-									<option value="Math">Math</option>
-									<option value="Math">Math</option>
-									<option value="Math">Math</option>
-									<option value="Math">Math</option>
+									<option value="basic_math">Basic Math</option>
+									<option value="fractions">Fractions</option>
+									<option value="linear_equations">Linear Equations</option>
+									<option value="algebra">Algebra</option>
+									<option value="pre_algebra">Pre-Algebra</option>
+									<option value="statistics">Statistics</option>
+									<option value="geometry">Geometry</option>
+									<option value="reading_comprehension">Reading Comprehension</option>
 								</select>
 								<button id="form-button" type="submit" value="Send">Get Started Now</button>
 							</fieldset>

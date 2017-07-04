@@ -105,6 +105,11 @@ legend{
 .heading:nth-child(3), .rate-heading:nth-child(3){
 	border-left: none;
 }
+p{
+	margin: 0 -10px 10px;
+	font-weight: bold;
+	font-size: 16px;
+}
 @media (max-width: 769px){
 	.day{
 		padding-top: 1.5em;
