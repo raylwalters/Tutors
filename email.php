@@ -74,7 +74,7 @@ $headers = 'From: info@2smart2tors.com'."\r\n".
 'Reply-To: '.$email_from."\r\n".
 'Return-Path: info@2smart2tors.com'."\r\n".
 'X-Mailer: PHP/' . phpversion();
-mail($email_to, $email_subject, $email_message, $headers, '-freturn@yourdomain.com');  
+mail($email_to, $email_subject, $email_message, $headers, '-freturn@2smart2tors.com');  
 ?>
  
 <!-- include your own success html here -->
