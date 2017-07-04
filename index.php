@@ -60,16 +60,16 @@
 								</p>
 								<select class="form-input" name="desired_course">
 									<option value="default">Pick a course</option>
-									<option value="basic_math">Basic Math</option>
-									<option value="fractions">Fractions</option>
-									<option value="linear_equations">Linear Equations</option>
-									<option value="algebra">Algebra</option>
-									<option value="pre_algebra">Pre-Algebra</option>
-									<option value="statistics">Statistics</option>
-									<option value="geometry">Geometry</option>
-									<option value="reading_comprehension">Reading Comprehension</option>
+									<option value="Basic Math">Basic Math</option>
+									<option value="Fractions">Fractions</option>
+									<option value="Linear Equations">Linear Equations</option>
+									<option value="Algebra">Algebra</option>
+									<option value="Pre-Algebra">Pre-Algebra</option>
+									<option value="Statistics">Statistics</option>
+									<option value="Geometry">Geometry</option>
+									<option value="Reading Comprehension">Reading Comprehension</option>
 								</select>
-								<button id="form-button" type="submit" value="Send">Get Started Now</button>
+								<button id="form-button" type="submit" name="submit" value="Send">Get Started Now</button>
 							</fieldset>
 						</form>
 					</div>
@@ -80,5 +80,7 @@
 	</body>
 	<?php 
 		include 'footer.php';
+		include 'email.php';
 	?>
+
 </html>
