@@ -80,6 +80,7 @@ mail($email_to, $email_subject, $email_message, $headers, '-freturn@2smart2tors.
 <!-- include your own success html here -->
  
 Thank you for contacting us. We will be in touch with you very soon.
+<a href="index">Return to homepage.</a>
  
 <?php
  

@@ -42,7 +42,7 @@
 			<div class="col-sm-4">
 				<div class="row">
 					<div class="col-xs-8 form-layout">
-						<form method="post" action="index.php">
+						<form method="post" action="email.php">
 							<fieldset>
 								<legend>Get your scholar on the path to academic success with 2smart2tors!</legend>
 								<p>
@@ -80,7 +80,6 @@
 	</body>
 	<?php 
 		include 'footer.php';
-		include 'email.php';
 	?>
 
 </html>
