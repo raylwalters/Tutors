@@ -8,7 +8,7 @@
 		  		<a class="btn btn-social-icon btn-twitter">
 		    		<span class="fa fa-youtube-square"></span>
 		  		</a>
-				<a class="btn btn-social-icon btn-facebook">
+				<a href="https://www.facebook.com/2smart2tors" target="_blank" class="btn btn-social-icon btn-facebook">
 		    		<span class="fa fa-facebook"></span>
 		  		</a>
 		  		<a class="btn btn-social-icon btn-pinterest">

@@ -23,12 +23,14 @@ h1{
 	text-align: center;
 	text-decoration: underline;
 }
+h2{
+	text-decoration: underline;
+}
 .center-block{
 	width: 50%;
 }
 .left-rail, .right-rail{
 	padding-left: 2em;
-	color: #980000;
 	margin-top: 5em;
     border-left: 2px solid black;
 }
@@ -127,6 +129,23 @@ p{
 .fraction{
 	height: 10em;
 }
+#stat-ul{
+	margin-top: 2em;
+}
+#logic-img{
+	height: 10em;
+    width: 100%;
+}
+#teachers{
+	margin-left: -7em;
+}
+#pic{
+	height: 25em;
+	margin-left: 2em;
+}
+.red{
+	color: #980000;
+}
 @media (max-width: 769px){
 	.day{
 		padding-top: 1.5em;
@@ -149,6 +168,13 @@ p{
 	.rates{
 		padding-top: 2em;
 	}
+	p{
+	margin: 0;
+	}
+	#teachers{
+	margin-left: 0;
+}
+	
 }
 @media (min-width: 768px) and (max-width: 1023px){
 	.location{

@@ -20,21 +20,21 @@
 				<div class="row">
 					<div class="col-sm-12">
 						<img src="images/tutors.jpg" class="center-block img-responsive" alt="Tutors">
-						<h3>Hands-on & Minds-on Tutoring</h3>
+						<h3 class="red">Hands-on & Minds-on Tutoring</h3>
 					</div>
 				</div>
 
 				<div class="row" id="home-info">
 					<div class="col-sm-4">
-						<h3>Engaging</h3>
+						<h3 class="red">Engaging</h3>
 						<p>With hands-on and minds-on, students will be active participants in the learning experience.</p>
 					</div>
 					<div class="col-sm-4">
-						<h3>Relevant</h3>
+						<h3 class="red">Relevant</h3>
 						<p>Students will learn the content within a real-world situation.</p>
 					</div>
 					<div class="col-sm-4">
-						<h3>Fun</h3>
+						<h3 class="red">Fun</h3>
 						<p>Forget the same old boring classroom.  By incorporating games and competition, students will be on the edge of their seats!</p>
 					</div>
 				</div>
