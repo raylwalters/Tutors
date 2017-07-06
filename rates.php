@@ -98,6 +98,7 @@
 	</div>
 	<p>*Predetermined consistent groups</p>
 	<p>*Pre-pay for 4 sessions</p>
+	<p>Contact us for more information at <a href='mailto:info@2smart2tors.com'>info@2smart2tors.com</a>.</p>
 	</div>
 	
 

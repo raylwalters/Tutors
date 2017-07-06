@@ -85,6 +85,9 @@
 			<p class='time'>3:00 pm - 6:00 pm</p>
 		</div>
 	</div>
+	<div class="col-xs-12">
+		<p>Contact us for more information at <a href='mailto:info@2smart2tors.com'>info@2smart2tors.com</a>.</p>
+	</div>
 	</div>
 	
 

@@ -45,6 +45,9 @@
 					<p>Entering her 10th year as a licensed teacher and 14th year in the field of education, Ingrid’s specialty is imparting a deep conceptual understanding of math to her students using hands-on and minds-on techniques. Her core philosophy in education is whoever is doing the most work is doing the most learning; therefore, during her instruction, students are actively involved in every step of the learning experience.</p>
 				</div>
 			</div>
+			<div class="col-xs-12">
+				<p>Contact us for more information at <a href='mailto:info@2smart2tors.com'>info@2smart2tors.com</a>.</p>
+			</div>
 
 	</div>
 
