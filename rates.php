@@ -15,9 +15,9 @@
 	<?php 
 		include 'header.php';
 	?>
-	<div class="content">
+	<div class="content outer grids">
 	<div class="col-xs-12" id="top-logo">
-		<img src="rates.jpg" alt='rates'>
+		<img src="images/rates.jpg" class="img-fluid" alt='rates'>
 	</div>
 	<div class="row">
 		<div class="col-xs-4 schedule rate-heading">
@@ -96,6 +96,8 @@
 			<p class='rates'>$40</p>
 		</div>
 	</div>
+	<p>*Predetermined consistent groups</p>
+	<p>*Pre-pay for 4 sessions</p>
 	</div>
 	
 

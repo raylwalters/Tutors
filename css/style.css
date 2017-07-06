@@ -17,9 +17,11 @@ h3{
 	text-align: center;
 	font-size: 1.5em;
 	line-height: 1.2em;
+	text-decoration: underline;
 }
 h1{
 	text-align: center;
+	text-decoration: underline;
 }
 .center-block{
 	width: 50%;
@@ -27,6 +29,8 @@ h1{
 .left-rail, .right-rail{
 	padding-left: 2em;
 	color: #980000;
+	margin-top: 5em;
+    border-left: 2px solid black;
 }
 .form-input{
 	width: 100%;
@@ -35,7 +39,7 @@ h1{
 	width: 49%;
 }
 .form-layout{
-	margin-left: 2em;
+	margin-left: .5em;
 }
 input, select{
 	height: 3em;
@@ -109,6 +113,19 @@ p{
 	margin: 0 -10px 10px;
 	font-weight: bold;
 	font-size: 16px;
+}
+.img-fluid{
+	max-width: 100%;
+	height: auto;
+}
+.outer{
+	padding: 1.6em;
+}
+.grids{
+	padding: 0;
+}
+.fraction{
+	height: 10em;
 }
 @media (max-width: 769px){
 	.day{

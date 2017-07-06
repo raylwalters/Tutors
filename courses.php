@@ -15,7 +15,7 @@
 	<?php 
 		include 'header.php';
 	?>
-	<div class="row">
+	<div class="row outer">
 		<div class="row">
 		<div class="col-sm-6 left-rail">
 			<div class="row">
@@ -26,7 +26,7 @@
 
 			<div class="row">
 				<div class="col-sm-6">
-					<img src="" alt='courses'>
+					<img src="images/brilliant_basics.jpg" class='img-fluid' alt='courses' style="height:20em">
 				</div>
 				<div class="col-sm-6">
 						
@@ -41,6 +41,8 @@
 						<li>Whole numbers</li>
 						<li>Decimals</li>
 					</ul>
+				</div>
+				<div class="col-xs-12">
 					<p>Starter pack: notebook, 3 ring binder, 2 pencils, 1 blue pen, 100 flash cards, addition flash cards, subtraction flash cards, multiplication flash cards, division flash cards, play money.</p>
 				</div>
 			</div>
@@ -56,19 +58,35 @@
 			<div class="row">
 				<div class="col-xs-12">
 					<p>Some of our favorite snacks are broken into fractions: cakes, pies, pizzas, candy bars, you name it!  But do we eat the whole thing? Not usually. During this class, students will master the concepts of:</p>
-					<ul>
-						<li>What are fractions?</li> 
-						<li>Equivalent fractions</li>
-						<li>Simplifying fractions </li>
-						<li>Adding</li>
-						<li>Subtracting</li>
-						<li>Multiplying</li>
-						<li>Dividing</li>
-					</ul>
-					<p>Starter pack: notebook, 3 ring binder, 2 pencils, 1 blue pen, 100 flash cards, fraction tiles, multiplication flash cards, division flash cards.</p>
-					<img src="" alt="img1">
-					<img src="" alt="img2">
-					<img src="" alt="img3">
+					<div class="col-xs-6">
+						<ul>
+							<li>What are fractions?</li> 
+							<li>Equivalent fractions</li>
+							<li>Simplifying fractions </li>
+							<li>Adding</li>
+						</ul>
+					</div>
+					<div class="col-xs-6">
+						<ul>
+							<li>Subtracting</li>
+							<li>Multiplying</li>
+							<li>Dividing</li>
+						</ul>
+					</div>
+					<div class="col-xs-12">
+						<p>Starter pack: notebook, 3 ring binder, 2 pencils, 1 blue pen, 100 flash cards, fraction tiles, multiplication flash cards, division flash cards.</p>
+					</div>
+					<div class="row">
+						<div class="col-xs-4">
+							<img src="images/fantastic_fractions1.jpg" class="img-fluid fraction" alt="img1">
+						</div>
+						<div class="col-xs-4">
+							<img src="images/fantastic_fractions2.jpg" class="img-fluid fraction" alt="img2">
+						</div>
+						<div class="col-xs-4">
+							<img src="images/fantastic_fractions3.jpg" class="img-fluid fraction" alt="img3">
+						</div>
+					</div>
 				</div>
 			</div>
 		</div>
@@ -94,7 +112,7 @@
 						</ul>
 					</div>
 					<div class="col-sm-6">
-						<img src="" alt="image">
+						<img src="images/algebra.jpg" class="img-fluid" alt="image">
 					</div>
 				</div>
 				<p>Starter pack: notebook, 3 ring binder, 2 pencils, 1 blue pen, 100 flash cards, multiplication flash cards, division flash cards, Math Expansion Addition Level 1, Math Expansion Subtraction Level 1, number line</p>
@@ -117,7 +135,7 @@
 						<p><b>Starter pack:</b> notebook, 3 ring binder, 2 pencils, 1 blue pen, 100 flash cards, multiplication flash cards, division flash cards, graphing paper, football, basketball</p>
 					</div>
 					<div class="col-sm-3">
-						<img src="" alt='pic'>
+						<img src="images/stimulating_statistics.jpg" class="img-fluid" alt='pic'>
 					</div>
 				</div>
 			</div>
@@ -130,7 +148,7 @@
 				</div>
 				<div class="row">
 					<div class="col-sm-6">
-						<img src="" alt="image">
+						<img src="images/algebra_for_athletes.jpg" class="img-fluid" alt="image">
 					</div>
 					<div class="col-sm-6">
 						<p>In order to be at the peak of fitness, an athlete must maintain a balance of exercise and caloric intake.  How does an athlete make these decisions?  Algebra, that's how.</p>
@@ -151,7 +169,7 @@
 				</div>
 				<div class="row">
 					<div class="col-sm-12">
-						<img src="" alt='pic'>
+						<img src="images/linear-equations.jpg" class="img-fluid" alt='pic'>
 					</div>
 					<div class="col-sm-12">
 						<p>The City of Detroit is on the rise!  There are opportunities galore for entrepreneurs to get a piece of the action.  As a developer, you are responsible for a budget of $30 million to create housing, entertainment, and businesses that will attract more residents during the resurgence in the City of Detroit.  During this class, scholars will master the concepts of:</p>
@@ -180,13 +198,18 @@
 					<div class="col-sm-12">
 						<p>Have you ever studied the amazing architectural structures around us every day?  The building blocks of these architectural designs are based in geometry.  Through the lens of architectural design, students will master the concepts of:</p>
 						<div class="row">
-							<ul>
-								<li>2D Polygons</li>
-								<li>Circles</li>
-								<li>Perimeter</li>
-								<li>Area</li>
-								<li>Formulas</li>
-							</ul>
+							<div class="col-xs-6">
+								<ul>
+									<li>2D Polygons</li>
+									<li>Circles</li>
+									<li>Perimeter</li>
+									<li>Area</li>
+									<li>Formulas</li>
+								</ul>
+							</div>
+							<div class="col-xs-6">
+								<img src="images/geometry_2d.jpg" class="img-fluid" alt="geometry">
+							</div>
 						</div>
 						<div class="col-sm-12">
 							<p><b>Starter pack:</b> notebook, 3 ring binder, 2 pencils, 1 blue pen, 100 flash cards, multiplication flash cards, division flash cards, 2D geometry shapes, 3D geometry shapes </p>
@@ -210,6 +233,17 @@
 						</div>
 						<div class="col-sm-12">
 							<p><b>Starter pack:</b> notebook, 3 ring binder, 2 pencils, 1 blue pen, 100 flash cards, multiplication flash cards, division flash cards, 2D geometry shapes, 3D geometry shapes </p>
+						</div>
+						<div class="row">
+							<div class="col-xs-4">
+								<img src="images/geometry_3d1.jpg" class="img-fluid" alt="geometry_3d1">
+							</div>
+							<div class="col-xs-4">
+								<img src="images/geometry_3d2.jpg" class="img-fluid" alt="geometry_3d2">
+							</div>
+							<div class="col-xs-4">
+								<img src="images/geometry_3d3.jpg" class="img-fluid" alt="geometry_3d3">
+							</div>
 						</div>
 					</div>
 				</div>

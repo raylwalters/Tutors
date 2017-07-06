@@ -7,16 +7,15 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="index.php">2smart2tors <span class="glyphicon glyphicon-home" aria-hidden="true"></span></a>
+					<a class="navbar-brand" href="index">2smart2tors <span class="glyphicon glyphicon-home" aria-hidden="true"></span></a>
 				</div>
 				<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
 					<ul class="nav navbar-nav navbar-right">
-						<li><a href="index.php">Home</a></li>
-						<li><a href="about.php">About Us</a></li>
-						<li><a href="courses.php">Courses</a></li>
-						<li><a href="schedule.php">Schedule</a></li>
-						<li><a href="rates.php">Rates</a></li>
-						<li><a href="#">Reviews</a></li>
+						<li><a href="index">Home</a></li>
+						<li><a href="about">About Us</a></li>
+						<li><a href="courses">Courses</a></li>
+						<li><a href="schedule">Schedule</a></li>
+						<li><a href="rates">Rates</a></li>
 					</ul>
 				</div>
 			</div>

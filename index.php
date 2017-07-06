@@ -15,7 +15,7 @@
 	<?php 
 		include 'header.php';
 	?>
-		<div class="row">
+		<div class="row outer">
 			<div class="col-sm-8 left-rail">
 				<div class="row">
 					<div class="col-sm-12">

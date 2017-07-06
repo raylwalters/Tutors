@@ -15,9 +15,9 @@
 	<?php 
 		include 'header.php';
 	?>
-	<div class="content">
+	<div class="content outer grids">
 	<div class="col-xs-12" id="top-logo">
-		<img src="schedule.jpg" alt='schedule'>
+		<img src="images/schedule.jpg" class="img-fluid" alt='schedule'>
 	</div>
 	<div class="row">
 		<div class="col-xs-4 schedule heading">
