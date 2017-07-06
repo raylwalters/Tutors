@@ -46,19 +46,19 @@
 							<fieldset>
 								<legend>Get your scholar on the path to academic success with 2smart2tors!</legend>
 								<p>
-								<input class="half-form" type="text" name="first_name" placeholder="First Name">
-								<input class="half-form" type="text" name="last_name" placeholder="Last Name">
+								<input class="half-form" type="text" name="first_name" required placeholder="First Name">
+								<input class="half-form" type="text" name="last_name" required placeholder="Last Name">
 								</p>
 								<p>
-								<input class="form-input" type="text" name="email" placeholder="Email">
+								<input class="form-input" type="text" name="email" required placeholder="Email">
 								</p>
 								<p>
-								<input class="form-input" type="text" name="phone" placeholder="Phone Number">
+								<input class="form-input" type="text" name="phone" required placeholder="Phone Number">
 								</p>
 								<p>
-								<input class="form-input" type="text" name="city" placeholder="City">
+								<input class="form-input" type="text" name="city" required placeholder="City">
 								</p>
-								<select class="form-input" name="desired_course">
+								<select class="form-input" name="desired_course" required>
 									<option value="default">Pick a course</option>
 									<option value="Basic Math">Basic Math</option>
 									<option value="Fractions">Fractions</option>
