@@ -31,17 +31,17 @@
 			<div class="col-xs-12">
 				<h2 class="red">Our Tutors</h2>
 			</div>
-			<div class="col-xs-4">
+			<div class="col-xs-4" id="tutor-pic">
 				<img src="images/dima-ingrid.jpg" id="pic" class="img-fluid" alt="tutors">
 			</div>
 			<div class="col-xs-8" id="teachers">
 				<div class="col-xs-12">
-					<p>Dima, M.Ed.</p>
+					<h4>Dima, M.Ed.</h4>
 					<p>With an extensive background in linguistics and literature, Dima has ten years of teaching experience in the classroom and in corporate settings. Dima’s instruction centers on the principle that the mastery of language is the key to a student’s academic success. Her focus is to guide students through developing clear and effective communication skills while making connections across literary texts.  Through student-centered instruction, learners will build upon solid language foundations and hone their critical and analytical thinking skills.</p>
 				</div>
 				
 				<div class="col-xs-12">
-					<p>Ingrid, M.Ed.</p>
+					<h4>Ingrid, M.Ed.</h4>
 					<p>Entering her 10th year as a licensed teacher and 14th year in the field of education, Ingrid’s specialty is imparting a deep conceptual understanding of math to her students using hands-on and minds-on techniques. Her core philosophy in education is whoever is doing the most work is doing the most learning; therefore, during her instruction, students are actively involved in every step of the learning experience.</p>
 				</div>
 			</div>

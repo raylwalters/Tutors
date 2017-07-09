@@ -79,8 +79,8 @@ mail($email_to, $email_subject, $email_message, $headers, '-freturn@2smart2tors.
  
 <!-- include your own success html here -->
  
-Thank you for contacting us. We will be in touch with you very soon.
-<a href="index">Return to homepage.</a>
+<h3>Thank you for contacting us. We will be in touch with you very soon.</h3>
+<a href="index">Click here to return to homepage.</a>
  
 <?php
  

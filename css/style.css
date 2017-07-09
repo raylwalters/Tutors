@@ -32,7 +32,9 @@ h2{
 .left-rail, .right-rail{
 	padding-left: 2em;
 	margin-top: 5em;
-    border-left: 2px solid black;
+}
+.right-rail{
+	border-left: 2px solid black;
 }
 .form-input{
 	width: 100%;
@@ -169,11 +171,16 @@ p{
 		padding-top: 2em;
 	}
 	p{
-	margin: 0;
+		margin: 0;
 	}
 	#teachers{
-	margin-left: 0;
-}
+		margin-left: 0;
+		width: 100%;
+	}
+	#tutor-pic{
+		width: 75%;
+		margin-left: -1em;
+	}
 	
 }
 @media (min-width: 768px) and (max-width: 1023px){
